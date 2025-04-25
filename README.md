@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/2d07484e-881d-4345-860a-e96c29b3902b)
+
+
 # 🚗 Scraper de Cotizaciones – Autocompara
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
